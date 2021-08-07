@@ -1,1 +1,1 @@
-
+This is an example of text to speech project using python and it uses modules such as pyttx3 and pydictionary
